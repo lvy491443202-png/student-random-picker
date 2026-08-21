@@ -14,3 +14,5 @@ if names:
     print("本次抽中：" + selected_name)
 else:
     print("没有输入学生姓名，请重新运行程序。")
+
+input("按回车键退出...")
